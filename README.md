@@ -3,5 +3,5 @@
 
 
 ```
-add com.test.repo:3
+add com.test.repo:4
 ```
